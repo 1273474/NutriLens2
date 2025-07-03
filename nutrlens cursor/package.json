@@ -33,7 +33,7 @@
     "drizzle-orm": "^0.29.0",
     "postgres": "^3.4.3",
     "drizzle-kit": "^0.20.6",
-    "rate-limiter-flexible": "^3.0.8",
+    "rate-limiter-flexible": "3.0.6",
     "express-rate-limit": "^7.1.5",
     "compression": "^1.7.4"
   },
